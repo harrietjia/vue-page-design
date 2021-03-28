@@ -1,0 +1,49 @@
+{
+    "code": 0,
+    "message": "success",
+    "data": {
+        "list": [
+            {
+                "id": "1",
+                "name": "test",
+                "url": "https://uidesign.zafcdn.com/ZF/image/2511/b.jpg?im_scale=w375_2x"
+            },
+            {
+                "id": "2",
+                "name": "test",
+                "url": "https://uidesign.zafcdn.com/ZF/image/2771/a.jpg?im_scale=w375_2x"
+            },
+            {
+                "id": "3",
+                "name": "test",
+                "url": "https://uidesign.drlcdn.com/DL/image/2686/m04.jpg?imbypass=true"
+            },
+            {
+                "id": "4",
+                "name": "test",
+                "url": "https://uidesign.drlcdn.com/DL/image/2665/a.jpg?imbypass=true"
+            },
+            {
+                "id": "5",
+                "name": "test",
+                "url": "https://uidesign.zafcdn.com/ZF/image/2487/601_banner_yu.jpg"
+            },
+            {
+                "id": "6",
+                "name": "test",
+                "url": "https://uidesign.zafcdn.com/ZF/image/2380/ny.jpg"
+            },
+            {
+                "id": "7",
+                "name": "test",
+                "url": "https://uidesign.rglcdn.com/RG/image/2723/banner_enamy.jpg"
+            },
+            {
+                "id": "8",
+                "name": "test",
+                "url": "https://uidesign.drlcdn.com/DL/image/2686/750520.jpg?imbypass=true"
+            }
+        ]
+    },
+    "localData": null
+}

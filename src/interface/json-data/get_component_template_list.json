@@ -1,0 +1,65 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "id": 1,
+      "name_en": "template1",
+      "name": "模版一",
+      "component_key": "U_title"
+    },
+    {
+      "id": 2,
+      "name_en": "template1",
+      "name": "模版一",
+      "component_key": "U_slideshow"
+    },
+    {
+      "id": 4,
+      "name_en": "template1",
+      "name": "模版一",
+      "component_key": "U_button"
+    },
+    {
+      "id": 8,
+      "name_en": "template1",
+      "name": "模版一",
+      "component_key": "U_blank"
+    },
+    {
+      "id": 9,
+      "name_en": "template1",
+      "name": "模版一",
+      "component_key": "U_line"
+    },
+    {
+      "id": 10,
+      "name_en": "template1",
+      "name": "模版一",
+      "component_key": "U_richtext"
+    },
+    {
+      "id": 11,
+      "name_en": "template1",
+      "name": "模版一",
+      "component_key": "U_cube"
+    },
+    {
+      "id": 16,
+      "name_en": "template1",
+      "name": "模版一",
+      "component_key": "U_suspendbutton"
+    },
+    {
+      "id": 21,
+      "name_en": "template1",
+      "name": "模版一",
+      "component_key": "U_simplegraph"
+    },
+    {
+      "id": 22,
+      "name_en": "template1",
+      "name": "模版一",
+      "component_key": "U_video"
+    }
+  ]
+}

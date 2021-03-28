@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "msg" : "is_store:：true代表门店组件，false是首页。category_id代表分类id。",
+  "data": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "component_key": "U_title",
+      "name": "标题栏",
+      "description": "标题栏组件",
+      "tpl_id": 1,
+      "icon": "icon-ht_basis_title",
+      "is_store": true
+    },
+    {
+      "id": 2,
+      "category_id": 2,
+      "component_key": "U_slideshow",
+      "name": "轮播图",
+      "description": "轮播图",
+      "tpl_id": 2,
+      "icon": "icon-ht_basis_shuffling",
+      "is_store": true
+    },
+    {
+      "id": 4,
+      "category_id": 2,
+      "component_key": "U_button",
+      "name": "按钮组",
+      "description": "按钮组",
+      "tpl_id": 4,
+      "icon": "icon-ht_basis_buttongroup",
+      "is_store": true
+    },
+    {
+      "id": 8,
+      "category_id": 1,
+      "component_key": "U_blank",
+      "name": "辅助空白",
+      "description": "辅助空白",
+      "tpl_id": 8,
+      "icon": "icon-ht_basis_blank",
+      "is_store": true
+    },
+    {
+      "id": 9,
+      "category_id": 1,
+      "component_key": "U_line",
+      "name": "辅助线",
+      "description": "辅助线",
+      "tpl_id": 9,
+      "icon": "icon-ht_basis_line",
+      "is_store": true
+    },
+    {
+      "id": 10,
+      "category_id": 1,
+      "component_key": "U_richtext",
+      "name": "富文本",
+      "description": "富文本",
+      "tpl_id": 10,
+      "icon": "icon-ht_basis_ftext",
+      "is_store": true
+    },
+    {
+      "id": 11,
+      "category_id": 1,
+      "component_key": "U_cube",
+      "name": "图片组合",
+      "description": "图片组合",
+      "tpl_id": 11,
+      "icon": "icon-ht_basis_picmofang",
+      "is_store": true
+    },
+    {
+      "id": 16,
+      "category_id": 2,
+      "component_key": "U_suspendbutton",
+      "name": "悬浮按钮",
+      "description": "悬浮按钮",
+      "tpl_id": 16,
+      "icon": "icon-ht_basis_suspendbutton",
+      "is_store": true
+    },
+    {
+      "id": 21,
+      "category_id": 1,
+      "component_key": "U_simplegraph",
+      "name": "单图",
+      "description": "单图",
+      "tpl_id": 21,
+      "icon": "icon-ht_basis_singlepic",
+      "is_store": true
+    },
+    {
+      "id": 22,
+      "category_id": 1,
+      "component_key": "U_video",
+      "name": "视频",
+      "description": "视频",
+      "tpl_id": 22,
+      "icon": "icon-ht_basis_radio",
+      "is_store": true
+    }
+  ]
+}
